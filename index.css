@@ -1,2 +1,11 @@
-.banner {
-  background image: url(
+.mainbanner {
+  background image: url("https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif");
+  font-family: helvetica;
+  font-size: 300px;
+  color: gold;
+}
+
+.intro {
+  font-family: helvetica;
+  font-size: 100px
+  color: gold;
